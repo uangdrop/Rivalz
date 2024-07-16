@@ -4,7 +4,7 @@ echo "Starting the setup process..."
 
 # Step 1: Download and install NVM
 echo "Downloading and installing NVM..."
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 
 # Load nvm and bash_completion
 export NVM_DIR="$HOME/.nvm"
