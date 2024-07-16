@@ -30,8 +30,8 @@ echo "Installing rivalz-node-cli..."
 npm install -g rivalz-node-cli
 
 # Step 4: Update ver
-rivalz update-version
 echo "Updating rivalz-node-cli..."
+rivalz update-version
 
 # Step 5: Run rClient
 echo "Running rivalz-node-cli..."
