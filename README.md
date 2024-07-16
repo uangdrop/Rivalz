@@ -67,3 +67,6 @@ rivalz run
 ![image](https://github.com/user-attachments/assets/17750669-e16a-4033-8481-c3e6363e4701)
 
 
+
+
+>CTRL+A+D For Minimize
